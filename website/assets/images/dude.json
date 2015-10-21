@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "walking_guy0001.png",
+	"frame": {"x":2,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0009.png",
+	"frame": {"x":2,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0002.png",
+	"frame": {"x":163,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0010.png",
+	"frame": {"x":163,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0003.png",
+	"frame": {"x":324,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0011.png",
+	"frame": {"x":324,"y":2,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0004.png",
+	"frame": {"x":2,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0012.png",
+	"frame": {"x":2,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0005.png",
+	"frame": {"x":163,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0013.png",
+	"frame": {"x":163,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0006.png",
+	"frame": {"x":324,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0014.png",
+	"frame": {"x":324,"y":281,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0007.png",
+	"frame": {"x":2,"y":560,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0015.png",
+	"frame": {"x":2,"y":560,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0008.png",
+	"frame": {"x":163,"y":560,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking_guy0016.png",
+	"frame": {"x":163,"y":560,"w":159,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":277},
+	"sourceSize": {"w":159,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dude.png",
+	"format": "RGBA8888",
+	"size": {"w":485,"h":839},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d2506d2d89a81fcc2ea31938ea02d9a0:88a82f008c2ef738ad2ede41acd769ce:91b0136f103a2ad004f02a846859646f$"
+}
+}

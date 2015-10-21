@@ -1,0 +1,6 @@
+[
+    { "id": "app-data", "src": "data/data.json" },
+    { "id": "dude-json", "src": "assets/images/dude.json" },
+    { "id": "dude-png", "src": "assets/images/dude.png" },
+    { "id": "grass", "src": "assets/images/grass.jpg" }
+]
